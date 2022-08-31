@@ -2,7 +2,7 @@
 
 🖥️-Estudante de Análise e Desenvolvimento de Sistemas<br>
 📖-Aprendendo JavaScript<br>
-🗃️-Buscando uma oportunidade de estágio como Desenvolverdor Back-end<br>
+🗃️-Atuando como Front-end<br>
 📪-Email: pedro.2112@hotmail.com.br<br>
 
 <div align="center">
