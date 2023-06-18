@@ -1,8 +1,6 @@
 ### Olá eu sou o Pedro Cunha👋<br>
 
-🖥️-Estudante de Análise e Desenvolvimento de Sistemas<br>
-📖-Aprendendo JavaScript<br>
-🗃️-Atuando como Front-end<br>
+🖥️-Dev FullStack<br>
 📪-Email: pedro.2112@hotmail.com.br<br>
 
 <div align="center">
